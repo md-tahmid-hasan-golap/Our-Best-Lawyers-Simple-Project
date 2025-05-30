@@ -1,7 +1,11 @@
 import React from "react";
 import { Link } from "react-router";
+import { toast } from "react-toastify";
 
 const Lawyer = ({ lawyer }) => {
+  const handleTost = () => {
+    toast.success("already Exisit");
+  };
   //   console.log(lawyer);
   const { image, Experience, name, expart, price, id } = lawyer;
   return (
@@ -30,7 +34,7 @@ const Lawyer = ({ lawyer }) => {
           <b>Consultation Fee : </b>
           <span className="text-green-700"> Tk : {price}</span>
         </p>
-        <Link to={`/lowyarDetails/${id}`}>
+        <Link onClick={handleTost} to={`/lowyarDetails/${id}`}>
           <div className="flex justify-center py-4">
             <a
               href="#_"

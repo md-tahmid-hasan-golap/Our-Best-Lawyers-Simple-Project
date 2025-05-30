@@ -5,6 +5,7 @@ import Home from "../Pages/Home/Home";
 import Blogs from "../Pages/Blogs/Blogs";
 import LowyarDetails from "../Pages/Lowyar/LowyarDetails";
 import MyBookings from "../Pages/MyBookings/MyBookings";
+import React from "react";
 
 const router = createBrowserRouter([
   {

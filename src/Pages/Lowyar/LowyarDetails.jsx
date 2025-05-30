@@ -1,7 +1,11 @@
 import React from "react";
 import { NavLink, useLoaderData, useParams } from "react-router";
+import { toast } from "react-toastify";
 
 const LowyarDetails = () => {
+  const handleTost = () => {
+    toast.success("already Exisit");
+  };
   const data = useLoaderData();
   // console.log(data);
   const { id } = useParams();
@@ -43,7 +47,7 @@ const LowyarDetails = () => {
           <span className="text-green-500">Tk {price}</span>{" "}
         </p>
         <div className="flex justify-center">
-          <NavLink to="/my-booking">
+          <NavLink onClick={handleTost} to="/my-booking">
             {" "}
             <a
               href="#_"
