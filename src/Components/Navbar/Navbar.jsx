@@ -7,7 +7,7 @@ const Navbar = () => {
     <>
       <NavLink
         to="/"
-        className={({ isActive }) => (isActive ? "text-blue-600 " : "")}
+        className={({ isActive }) => (isActive ? "text-blue-600" : "")}
       >
         <li className="m-3 font-medium">Home</li>
       </NavLink>

@@ -14,7 +14,7 @@ const Lawyers = ({ data }) => {
   }, [data, show]);
   //   console.log(data);
   return (
-    <div className="max-w-11/12 mx-auto">
+    <div className="max-w-11/12 mx-auto mt-16">
       <h1 className="text-5xl font-medium text-center mb-4">
         Our Best Lawyers
       </h1>
