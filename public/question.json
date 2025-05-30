@@ -1,0 +1,36 @@
+
+[
+    {
+      "question_id": 1,
+      "question":"What is useState and how does it work in React?",
+      "answer":"In React, useState can store any type of value, whereas the state in a class component is limited to being an object"
+    },
+
+    {
+        "question_id": 2,
+        "question":"What is the purpose of useEffect in React",
+        "answer":"The useEffect in ReactJS is used to handle the side effects such as fetching data and updating DOM"
+      },
+
+      {
+        "question_id": 3,
+        "question":"What is a custom hook in React and when should you use one",
+        "answer":"Custom Hooks are a mechanism to reuse stateful logic (such as setting up a subscription and remembering the current value), but every time you use a custom Hook, all state and effects inside of it are fully isolated."
+      },
+
+      {
+        "question_id": 4,
+        "question":"Difference between controlled and uncontrolled components. Which one is better?",
+        "answer":"In React, controlled components manage their own state, while uncontrolled components let the DOM handle it. There's no single better approach; the best choice depends on the specific needs of your application. Controlled components offer more control and are suitable for complex forms and validations, while uncontrolled components are simpler and can be easier to integrate with existing code"
+      },
+
+      {
+        "question_id": 5,
+        "question":"Tell us something about useFormStatus() in React.",
+        "answer":"useFormStatus() The useFormStatus Hook provides status information of the last form submission"
+      }
+  
+  
+  
+  
+]

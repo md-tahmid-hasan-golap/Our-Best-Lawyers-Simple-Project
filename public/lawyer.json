@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "Experience":"15 years",
+        "name": "Tanvir Alam",
+        "image": "https://i.ibb.co.com/gL1fJmS6/1.jpg",
+        "work":["Monday","Tuesday,","Wednesday","Thursday"," Saturday","Sunday"],
+        "price":"25000",
+        "License": "Bd1254580",
+        "expart":"criminal"
+    
+        
+      },
+
+      {
+        "id": 2,
+        "Experience":"13 years",
+        "name": "Tasnim jaman",
+        "image": "https://i.ibb.co.com/hJ4Jt3nN/14.jpg",
+        "work":["Monday","Tuesday,","Wednesday","Thursday"],
+        "price":"20000",
+        "License": "Bd5627012",
+        "expart":"criminal"
+
+    
+        
+      },
+
+      {
+        "id": 3,
+        "Experience":"10 years",
+        "name": "Polas Islam",
+        "image": "https://i.ibb.co.com/B5crwswN/2.jpg",
+        "work":["Monday","Tuesday,","Wednesday","Thursday"," Saturday","Sunday"],
+        "price":"15000",
+        "License": "Bd521112411",
+        "expart":"criminal"
+      },
+
+      {
+        "id": 4,
+        "Experience":"17 years",
+        "name": "Shahin Islam",
+        "image": "https://i.ibb.co.com/d4gpMJsk/4.jpg",
+        "work":["Monday","Tuesday,"," Saturday","Sunday"],
+        "price":"38000",
+        "License": "Bd21435201",
+        "expart":"Divorse"
+      },
+
+      {
+        "id": 5,
+        "Experience":"12 years",
+        "name": "jamil Alam",
+        "image": "https://i.ibb.co.com/4GcrPfq/5.jpg",
+
+        "work":["Wednesday","Thursday"," Saturday","Sunday"],
+        "price":"28000",
+        "License": "Bd1404560",
+        "expart":"Land Area"
+    
+        
+      },
+
+      {
+        "id": 6,
+        "Experience":"16 years",
+        "name": "Fahim Alam",
+        "image": "https://i.ibb.co.com/sJg4Hpn2/6.png",
+        "work":["Monday","Tuesday,","Wednesday"," Saturday","Sunday"],
+        "price":"19000",
+        "License": "Bd11645026",
+        "expart":"Divorse"
+    
+        
+      },
+
+
+      {
+        "id": 7,
+        "Experience":"5 years",
+        "name": "Tamim Islam",
+        "image": "https://i.ibb.co.com/Xfw8L5LC/7.png",
+        "work":["Monday","Tuesday,","Wednesday","Thursday"," Saturday","Sunday"],
+        "price":"10000",
+        "License": "Bd12345696",
+        "expart":"criminal"
+    
+        
+      },
+
+      {
+        "id": 8,
+        "Experience":"20 years",
+        "name": "Anwar hossion",
+        "image": "https://i.ibb.co.com/7JydtFcV/8.jpg",
+
+        "work":["Monday"," Saturday","Sunday"],
+        "price":"50000",
+        "License": "Bd14012566336",
+        "expart":"Land Area"
+    
+        
+      },
+
+
+      {
+        "id": 9,
+        "Experience":"9 years",
+        "name": "Arman Alom",
+        "image": "https://i.ibb.co.com/XfQdLZqf/9.png",
+        "work":["Monday","Tuesday,","Thursday"," Saturday"],
+        "price":"42000",
+        "License": "Bd5260069398",
+        "expart":"Divorse"
+    
+        
+      },
+
+      {
+        "id": 10,
+        "Experience":"10 years",
+        "name": "Sofiq Korim",
+        "image": "https://i.ibb.co.com/cKncLJvh/10.png",
+        "work":["Monday","Tuesday,","Wednesday","Thursday"," Saturday"],
+        "price":"35000",
+        "License": "Bd457812369",
+        "expart":"criminal"
+    
+        
+      },
+
+      {
+        "id": 11,
+        "Experience":"21 years",
+        "name": "kader Moula",
+        "image": "https://i.ibb.co.com/6z3JBN6/11.jpg",
+        "work":["Monday","Tuesday,","Thursday"," Saturday","Sunday"],
+        "price":"55000",
+        "License": "Bd12348796",
+        "expart":"Divorse"
+    
+        
+      },
+
+      {
+        "id": 12,
+        "Experience":"12 years",
+        "name": "Showmik shahin",
+        "image": "https://i.ibb.co.com/6Jr676GH/13.jpg",
+        "work":["Monday","Thursday"," Saturday","Sunday"],
+        "price":"25000",
+        "License": "Bd4567889236",
+        "expart":"Divorse"
+    
+        
+      }
+
+
+
+      
+   
+]
